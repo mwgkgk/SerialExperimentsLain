@@ -91,7 +91,7 @@ hi Tag guifg=#bd9700 guibg=NONE guisp=NONE gui=NONE ctermfg=1 ctermbg=NONE cterm
 hi String guifg=#79c7ad guibg=NONE guisp=NONE gui=NONE ctermfg=115 ctermbg=NONE cterm=NONE
 hi PMenuThumb guifg=NONE guibg=#a4a6a8 guisp=#a4a6a8 gui=NONE ctermfg=NONE ctermbg=248 cterm=NONE
 hi MatchParen guifg=#1190b0 guibg=NONE guisp=NONE gui=bold ctermfg=31 ctermbg=NONE cterm=bold
-hi Repeat guifg=#0091bd guibg=NONE guisp=NONE gui=bold ctermfg=4 ctermbg=NONE cterm=bold
+hi Repeat guifg=#0091bd guibg=NONE guisp=NONE gui=bold ctermfg=109 ctermbg=NONE cterm=bold
 hi SpellBad guifg=#e1e1e6 guibg=#192224 guisp=#192224 gui=underline ctermfg=254 ctermbg=235 cterm=underline
 hi Directory guifg=#556a92 guibg=NONE guisp=NONE gui=bold ctermfg=60 ctermbg=NONE cterm=bold
 hi Structure guifg=#556a92 guibg=NONE guisp=NONE gui=bold ctermfg=60 ctermbg=NONE cterm=bold
