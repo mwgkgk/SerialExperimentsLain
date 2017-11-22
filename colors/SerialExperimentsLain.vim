@@ -37,7 +37,7 @@ hi PreCondit guifg=#29b0b0 guibg=NONE guisp=NONE gui=NONE ctermfg=37 ctermbg=NON
 hi Include guifg=#c153e6 guibg=NONE guisp=NONE gui=NONE ctermfg=134 ctermbg=NONE cterm=NONE
 hi TabLineSel guifg=#32c26c guibg=#190780 guisp=#190780 gui=bold ctermfg=232 ctermbg=66 cterm=bold
 hi StatusLineNC guifg=#1a2124 guibg=#5E6C70 guisp=#5E6C70 gui=bold ctermfg=238 ctermbg=66 cterm=bold
-hi NonText guifg=#616f73 guibg=NONE guisp=NONE gui=italic ctermfg=66 ctermbg=NONE cterm=NONE
+hi NonText guifg=#616f73 guibg=NONE guisp=NONE gui=italic ctermfg=238 ctermbg=NONE cterm=NONE
 hi DiffText guifg=#38c279 guibg=#73008a guisp=#73008a gui=NONE ctermfg=78 ctermbg=54 cterm=NONE
 hi ErrorMsg guifg=#b39ca4 guibg=#8f0069 guisp=#8f0069 gui=NONE ctermfg=138 ctermbg=89 cterm=NONE
 hi Debug guifg=#b067db guibg=NONE guisp=NONE gui=NONE ctermfg=134 ctermbg=NONE cterm=NONE
