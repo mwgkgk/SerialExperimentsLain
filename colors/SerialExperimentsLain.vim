@@ -32,7 +32,7 @@ hi SignColumn guifg=#1a2124 guibg=#536991 guisp=#536991 gui=NONE ctermfg=235 cte
 hi SpecialComment guifg=#bd9700 guibg=NONE guisp=NONE gui=NONE ctermfg=1 ctermbg=NONE cterm=NONE
 hi Typedef guifg=#556a92 guibg=NONE guisp=NONE gui=bold ctermfg=60 ctermbg=NONE cterm=bold
 hi Title guifg=#e1e1e6 guibg=#192224 guisp=#192224 gui=bold ctermfg=254 ctermbg=235 cterm=bold
-hi Folded guifg=#1a2124 guibg=#A1A6A8 guisp=#A1A6A8 gui=italic ctermfg=235 ctermbg=248 cterm=NONE
+hi Folded guifg=#1a2124 guibg=#A1A6A8 guisp=#A1A6A8 gui=italic ctermfg=243 ctermbg=236 cterm=NONE
 hi PreCondit guifg=#29b0b0 guibg=NONE guisp=NONE gui=NONE ctermfg=37 ctermbg=NONE cterm=NONE
 hi Include guifg=#c153e6 guibg=NONE guisp=NONE gui=NONE ctermfg=134 ctermbg=NONE cterm=NONE
 hi TabLineSel guifg=#32c26c guibg=#190780 guisp=#190780 gui=bold ctermfg=232 ctermbg=66 cterm=bold
@@ -70,7 +70,7 @@ hi ModeMsg guifg=#e6e6e6 guibg=#192224 guisp=#192224 gui=bold ctermfg=254 ctermb
 hi CursorColumn guifg=NONE guibg=#222E30 guisp=#222E30 gui=NONE ctermfg=NONE ctermbg=236 cterm=NONE
 hi Define guifg=#00bd26 guibg=NONE guisp=NONE gui=NONE ctermfg=34 ctermbg=NONE cterm=NONE
 hi Function guifg=#04c0c7 guibg=NONE guisp=NONE gui=bold ctermfg=44 ctermbg=NONE cterm=bold
-hi FoldColumn guifg=#1a2124 guibg=#A1A6A8 guisp=#A1A6A8 gui=italic ctermfg=235 ctermbg=248 cterm=NONE
+hi FoldColumn guifg=#1a2124 guibg=#A1A6A8 guisp=#A1A6A8 gui=italic ctermfg=243 ctermbg=236 cterm=NONE
 hi ColorColumn guifg=NONE guibg=#222E30 guisp=#222E30 gui=NONE ctermfg=NONE ctermbg=236 cterm=NONE
 hi PreProc guifg=#759fad guibg=NONE guisp=NONE gui=NONE ctermfg=109 ctermbg=NONE cterm=NONE
 hi Visual guifg=#1a2124 guibg=#F9F9FF guisp=#F9F9FF gui=NONE ctermfg=235 ctermbg=189 cterm=NONE
